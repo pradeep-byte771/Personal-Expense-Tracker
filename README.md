@@ -1,22 +1,28 @@
-# Personal-Expense-Tracker
+# 💰 Personal Expense Tracker
 
-A simple expense tracker built with Python and Jupyter Notebook.  
+A simple Python-based Personal Expense Tracker that helps you record, manage, and analyze your daily expenses.  
+Data is stored locally in a **CSV file**, making it lightweight and easy to use.
+
+---
 
 ## ✨ Features
-- Add expenses with category, amount, and date
-- View all expenses in a table
-- Visualize spending with bar charts and pie charts
+- Add new expenses with category and amount  
+- View all expenses in a table format  
+- Filter expenses by category  
+- Get total expenses for a period  
+- Data stored in **CSV** (portable and editable)  
 
-## 📂 Files
-- `Expense_Tracker.ipynb` → Main Jupyter Notebook
-- `expenses.csv` → Stores all expenses
+---
 
-## 🚀 Requirements
-- Python 3
-- pandas
-- matplotlib
+## 🛠️ Tech Stack
+- **Python** (core logic)  
+- **CSV** (data storage)  
 
-## 📝 How to Run
-1. Clone/download this repository
-2. Open `Expense_Tracker.ipynb` in Jupyter Notebook
-3. Run the cells and start adding expenses!
+---
+
+## 🚀 Installation & Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/pradeep-byte771/Personal-Expense-Tracker.git
+   cd Personal-Expense-Tracker
