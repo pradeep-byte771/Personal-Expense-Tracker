@@ -57,7 +57,7 @@ python Expensetracker.py
 
 ## 📸 Screenshots
 
-![Tracker Menu]<img width="1496" height="620" alt="menu" src="https://github.com/user-attachments/assets/68203629-ffb3-4e56-8419-68a6a4ecbf05" />
+![Tracker Menu]<img width="1496" height="576" alt="menu" src="https://github.com/user-attachments/assets/4de277e0-073d-4acb-abd1-f9774abced07" />
 (menu.png)
 
 ---
